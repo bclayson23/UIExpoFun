@@ -1,0 +1,122 @@
+[
+  {
+   "id": 1,
+    "title": "Once Upon a Time... In Hollywood",
+    "distributor": "Sony",
+    "year": 2019,
+    "director": "Quentin Tarantino",
+    "img": {
+      "src": "media/ouatih.jpg",
+      "alt": "ouatih"
+    },
+    "ranking": 1
+  },
+  {
+    "id": 2,
+    "title": "The Wolf of Wall Street",
+    "distributor": "Paramount",
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "img": {
+      "src": "media/wows.jpg",
+      "alt": "wows"
+    },
+    "ranking": 2
+  },
+  {
+    "id": 3,
+    "title": "Boogie Nights",
+    "distributor": "Warner Brothers",
+    "year": 1997,
+    "director": "Paul Thomas Anderson",
+    "img": {
+      "src": "media/bn.jpg",
+      "alt": "bn"
+    },
+    "ranking": 3
+  },
+  {
+    "id": 4,
+    "title": "Fight Club",
+    "distributor": "20th Century Fox",
+    "year": 1999,
+    "director": "David Fincher",
+    "img": {
+      "src": "media/fc.jpg",
+      "alt": "fc"
+    },
+    "ranking": 4
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "distributor": "Miramax",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "img": {
+      "src": "media/pf.jpg",
+      "alt": "pf"
+    },
+    "ranking": 5
+  },
+  {
+    "id": 6,
+    "title": "Babylon",
+    "distributor": "Paramount",
+    "year": 2022,
+    "director": "Damien Chazelle",
+    "img": {
+      "src": "media/b.jpg",
+      "alt": "b"
+    },
+    "ranking": 6
+  },
+  {
+    "id": 7,
+    "title": "Inglourious Basterds",
+    "distributor": "Universal Pictures",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "img": {
+      "src": "media/ib.jpg",
+      "alt": "ib"
+    },
+    "ranking": 7
+  },
+  {
+    "id": 8,
+    "title": "Knives Out",
+    "distributor": "MRC",
+    "year": 2019,
+    "director": "Rian Johnson",
+    "img": {
+      "src": "media/ko.jpg",
+      "alt": "ko"
+    },
+    "ranking": 8
+  },
+  {
+    "id": 9,
+    "title": "Spider-Man: No Way Home",
+    "distributor": "Marvel Studios",
+    "year": 2021,
+    "director": "Jon Watts",
+    "img": {
+      "src": "media/smnwh.jpg",
+      "alt": "smnwh"
+    },
+    "ranking": 9
+  },
+  {
+    "id": 10,
+    "title": "Se7en",
+    "distributor": "New Line Cinema",
+    "year": 1995,
+    "director": "David Fincher",
+    "img": {
+      "src": "media/s.jpg",
+      "alt": "s"
+    },
+    "ranking": 10
+  }
+]
